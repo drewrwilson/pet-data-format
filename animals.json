@@ -1,0 +1,22 @@
+{
+  "title": "PetHarbor RSS Feed Current Search: ADOPTABLE DOGS",
+  "link":"url-goes-here",
+  "lastBuildDate":"Thu, 17 Jul 2014 11:05:50 GMT",
+  "ttl":"60",
+  "animals":[
+    {
+      "id": "A219932",
+      "shelter-code": "DNVR",
+      "name": "Finn",
+      "gender": "Male",
+      "pic": "http://www.petharbor.com/get_image.asp?RES=detail&ID=A219932&LOCATION=DNVR",
+      "link": "http://www.petharbor.com/pet.asp?uaid=DNVR.A219932",
+      "desc": "I am a neutered male, black and white Chihuahua - Smooth Coated and Dachshund...",
+      "age": "3 years old",
+      "color": "Black",
+      "breed": "chihuahua sh and dachshund",
+      "enter-shelter-date": "Jun 05, 2014",
+      "publish-date": "Jun 07, 2014"
+    }
+  ]
+}
