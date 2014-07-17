@@ -1,0 +1,45 @@
+<xml version="1.0" encoding="utf-8">
+  <title>PetHarbor RSS Feed Current Search: ADOPTABLE DOGS</title>
+  <link>http://example.com</link>
+  <description/>
+  <language>en-us</language>
+  <copyright>copyright info goes here</copyright>
+  <updated>Thu, 17 Jul 2014 11:05:50 GMT</updated>
+  <ttl>60</ttl>
+
+  <entry>
+    <guid isPermaLink="false">DNVR.A219869</guid>
+    <title>A219869</title>
+    <link>
+      http://www.petharbor.com/pet.asp?uaid=DNVR.A219932
+    </link>
+    <description>
+      I am a neutered male, black and white Chihuahua - Smooth Coated and Dachshund...
+    </description>
+    <shelter-code>
+      DNVR
+    </shelter-code>
+    <name>
+      Finn
+    </name>
+    <gender>
+      Male
+    </gender>
+    <pic>
+      http%3A%2F%2Fwww.petharbor.com%2Fget_image.asp%3FRES%3Ddetail%26ID%3DA219932%26LOCATION%3DDNVR
+    </pic>
+    <age>
+      3 years old
+    </age>
+    <color>
+      Black
+    </color>
+    <breed>
+      chihuahua sh and dachshund
+    </breed>
+    <enter-shelter-date>
+      Sat, 5 Jun 2014 10:00:00 GMT
+    </enter-shelter-date>
+    <pubDate>Thu, 17 Jul 2014 10:49:58 GMT</pubDate>
+  </entry>
+</xml>
